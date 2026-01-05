@@ -1,6 +1,6 @@
 # Hi, I'm Sudharson 👋
 
-I am a prospective undergraduate student building strong foundations in programming, data analysis, and computational thinking. I am interested in how digital tools and information systems can be applied to structured problem-solving and real-world use cases. This repository documents my early learning and preparation for university-level computer science studies.
+I am a prospective undergraduate student building strong foundations in programming, data analysis, and computational thinking. I am interested in how digital tools and information systems can be applied to structured problem-solving and practical cases. This repository documents my early learning and preparation for university-level computer science studies.
 
 ### 🎓 Completed Certifications
 * **Introduction to Git & GitHub** (Google via Coursera)
