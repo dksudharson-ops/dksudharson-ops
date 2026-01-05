@@ -1,15 +1,18 @@
 # Hi, I'm Sudharson 👋
 
-I am a proactive student dedicated to developing the quantitative and technical foundations required for rigorous university-level study. I am passionate about exploring how digital tools, automation, and information systems can be leveraged to solve complex real-world problems. My goal is to master the methodologies that bridge the gap between technical innovation and effective decision-making across diverse industries.
+I am a prospective undergraduate student building strong foundations in programming, data analysis, and computational thinking. I am interested in how digital tools and information systems can be applied to structured problem-solving and real-world use cases. This repository documents my early learning and preparation for university-level computer science studies.
 
 ### 🎓 Completed Certifications
 * **Introduction to Git & GitHub** (Google via Coursera)
 * **Product Analysis and AI** (University of Virginia via Coursera)
 
-### 🛠️ Skills I've Learned
-* **Data:** Data cleaning, analysis, and visualization.
-* **Tools:** Microsoft Excel, PowerPoint, and basic Git version control.
-* **AI:** Understanding of AI ethics and foundational machine learning concepts.
+### 🚀 Ongoing Learning
+* **C++ Programming Fundamentals** (Microsoft via Coursera)
+  * Focus: Learning C++ syntax, control flow, functions, and foundational problem-solving concepts.
 
+### 🛠️ Skills I've Learned
+* **Data:** Introductory exposure to data cleaning, basic analysis, and simple visualizations.
+* **Tools:** Microsoft Excel, PowerPoint, and basic Git version control.
+* **AI:** Introductory understanding of AI concepts and ethical considerations.
 ### 🚀 Goal
-I am using this GitHub profile to document my transition into University-level projects. My current focus is applying my Data Analytics knowledge to real-world datasets.
+This GitHub profile is used to document my learning journey and early technical exercises as I prepare for undergraduate studies in computer science and related fields. Over time, this space will include projects and coursework-aligned practice.
